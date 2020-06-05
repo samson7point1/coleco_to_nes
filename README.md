@@ -8,8 +8,10 @@ This PCB is designed to be swapped out with that of a standard NES controller to
 * 1 x 4 Position, Low-Profile DIP switch (https://www.mouser.com/ProductDetail/653-A6S-4104-H)
 * 1 x OEM NES Control Pad (First Party NES Classic Control Pads may also work)
 
+The board populated (Note the DIP positions have set the Select button to "5"):
 ![V4 Populated](V4_Populated.jpg)
 
+The board wired and installed:
 ![V4 Installed](V4_Installed.jpg)
 
 
@@ -39,13 +41,6 @@ A handful of games require you to press some button other than "1" to start - fo
 |         # | ↑ |   | ↑ |   |
 
 
-
-## Bill of Materials
-
-* 1 x DE9 Joystic cable (https://console5.com/store/atari-sega-commodore-coleco-msx-6-1-8m-joystick-controller-project-repair-cable-cord.html)
-* 11 x 1N4148 Switching Diodes (https://www.mouser.com/ProductDetail/512-1N4148)
-* 1 x 4 Position, Low-Profile DIP switch (https://www.mouser.com/ProductDetail/653-A6S-4104-H)
-* 1 x OEM NES Control Pad (First Party NES Classic Control Pads may also work)
 
 ## License
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
