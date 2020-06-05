@@ -7,7 +7,9 @@ This PCB is designed to be swapped out with that of a standard NES controller to
 * 11 x 1N4148 Switching Diodes (https://www.mouser.com/ProductDetail/512-1N4148)
 * 1 x 4 Position, Low-Profile DIP switch (https://www.mouser.com/ProductDetail/653-A6S-4104-H)
 * 1 x OEM NES Control Pad (First Party NES Classic Control Pads may also work)
+
 ![V4 Populated](V4_Populated.png)
+
 ![V4 Installed](V4_Installed.png)
 
 
