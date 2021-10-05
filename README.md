@@ -1,9 +1,9 @@
-# ColecVision to NES Controller PCB Replacement
+# ColecoVision to NES Controller PCB Replacement
 This PCB is designed to be swapped out with that of a standard NES controller to allow you to use it with a ColecoVision game console.  As this is a drop-in replacement, there is no need to modify or damage any of the original components of the NES controller.
 ![V4 PCB](V4_PCB.png)
 
 ## Bill of Materials
-* 1 x DE9 Joystic cable (https://console5.com/store/atari-sega-commodore-coleco-msx-6-1-8m-joystick-controller-project-repair-cable-cord.html)
+* 1 x DE9 Joystick cable (https://console5.com/store/atari-sega-commodore-coleco-msx-6-1-8m-joystick-controller-project-repair-cable-cord.html)
 * 11 x 1N4148 Switching Diodes (https://www.mouser.com/ProductDetail/512-1N4148)
 * 1 x 4 Position, Low-Profile DIP switch (https://www.mouser.com/ProductDetail/653-A6S-4104-H)
 * 1 x OEM NES Control Pad (First Party NES Classic Control Pads may also work)
