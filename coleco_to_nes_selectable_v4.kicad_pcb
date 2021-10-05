@@ -1,4 +1,4 @@
-(kicad_pcb (version 20171130) (host pcbnew 5.0.2-5.fc29)
+(kicad_pcb (version 20171130) (host pcbnew "(5.1.5-0-10_14)")
 
   (general
     (thickness 1.6)
@@ -39,8 +39,6 @@
     (zone_clearance 0.508)
     (zone_45_only no)
     (trace_min 0.2)
-    (segment_width 0.2)
-    (edge_width 0.2)
     (via_size 0.8)
     (via_drill 0.4)
     (via_min_size 0.4)
@@ -50,6 +48,8 @@
     (uvias_allowed no)
     (uvia_min_size 0.2)
     (uvia_min_drill 0.1)
+    (edge_width 0.2)
+    (segment_width 0.2)
     (pcb_text_width 0.3)
     (pcb_text_size 1.5 1.5)
     (mod_edge_width 0.15)
@@ -88,7 +88,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "coleco_to_nes_selectable_v4_gerbers/"))
+      (outputdirectory "coleco-to-nes-v4"))
   )
 
   (net 0 "")
@@ -3605,8 +3605,8 @@
       (xy 0.09525 -0.485775)) (layer F.SilkS) (width 0.01))
   )
 
+  (gr_line (start 87.01 100.02) (end 86.952354 85.98) (layer Edge.Cuts) (width 0.2))
   (gr_line (start 120.01 67.52) (end 104.01 67.52) (layer Edge.Cuts) (width 0.2))
-  (gr_line (start 87.01 100.02) (end 87.01 84.02) (layer Edge.Cuts) (width 0.2))
   (gr_line (start 122.01 100.02) (end 87.01 100.02) (layer Edge.Cuts) (width 0.2))
   (gr_line (start 122.01 98.02) (end 122.01 100.02) (layer Edge.Cuts) (width 0.2))
   (gr_line (start 125.01 98.02) (end 122.01 98.02) (layer Edge.Cuts) (width 0.2))
@@ -3675,7 +3675,7 @@
   (gr_text 1 (at 189.01 62.12) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
-  (gr_arc (start 105.47 85.98) (end 105.47 67.48) (angle -90) (layer Edge.Cuts) (width 0.2))
+  (gr_arc (start 105.47 85.98) (end 104.01 67.52) (angle -85.47789438) (layer Edge.Cuts) (width 0.2))
 
   (via (at 91 96.25) (size 2.2) (drill 2.1) (layers F.Cu B.Cu) (net 0))
   (via (at 196 96.25) (size 2.2) (drill 2.1) (layers F.Cu B.Cu) (net 0) (tstamp 5EAADE1E))
